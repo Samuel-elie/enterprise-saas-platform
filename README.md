@@ -61,6 +61,6 @@ http://localhost:3000/docs
 * [ ] OWASP Scanner integration
 * [ ] Observability (metrics, tracing)
 
-## 📄 License
+##  License
 
 MIT
